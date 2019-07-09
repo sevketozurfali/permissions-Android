@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Permissions</string>
+    <string name="mainText">This project created to build permission screens easily with one line code.</string>
 </resources>
